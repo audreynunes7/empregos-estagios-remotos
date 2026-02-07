@@ -5,8 +5,17 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 > [!TIP]
 > **Dica de Ouro:** Algumas empresas postam a vaga como "Remoto" mas colocam no texto: *"Apenas para residentes de tal Cidade"*. **Leia sempre a descrição completa** antes de aplicar para evitar frustrações.
 
+---
 
+### 📍 Índice
+* [Vagas de emprego 100% Home Office](#-foco-em-vagas-de-emprego-100-home-office)
+* [Estágios](#-foco-em-estágios)
+* [Tech](#-foco-em-vagas-tech)
+* [Internacional](#-internacional)
+* [Sites comuns de vagas](#%EF%B8%8F-sites-comuns-de-vagas-e-estágios-precisa-buscar-remotohome-office-pelos-filtros)
+* [Freela e projetos](#%EF%B8%8F-freelancer-e-projetos)
 
+---
 
 ## 🏠 Foco em vagas de emprego 100% Home Office
 
