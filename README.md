@@ -27,6 +27,8 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 | **[Home Office - Vagas Remotas](https://www.linkedin.com/company/home-office-vagas-remotas/posts/)** | Linkedin |
 | **[Vanderlei Gourlart](https://www.linkedin.com/in/vanderleigoulart/)** | Linkedin |
 | **[Workana](https://www.workana.com/pt/)**
+| **[Vagas Home Office](https://t.me/Trabalhohomeofficem)** | Canal Telegram |
+
 
 
 
@@ -50,8 +52,8 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 
 ## 💻 Foco em vagas tech
 
-| Link |
-| :--- | 
+| Link | Plataforma |
+| :--- | :--- |
 | **[GeekHunter](https://www.geekhunter.com.br/)** |
 | **[Revelo](https://www.revelo.com.br/)** | 
 | **[FlexJobs](https://www.flexjobs.com/)** | 
@@ -61,7 +63,18 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 | **[Nerdin](https://www.nerdin.com.br)** |
 | **[Remote In Tech](https://remoteintech.company)** |
 | **[Backend Br](https://github.com/backend-br/vagas/issues)** |
-| **[Front End Brasil](https://github.com/frontendbr/vagas/)**
+| **[Front End Brasil](https://github.com/frontendbr/vagas/)** |
+| **[Vagas Backend](https://t.me/vagasbackend)** | Canal Telegram |
+| **[Vagas de TI para Todos](https://t.me/vagastibr)** | Canal Telegram |
+| **[Vagas para QA](https://t.me/vagasqa)** | Canal Telegram |
+| **[Developers Jobs](https://t.me/developersjobs)** | Canal Telegram |
+| **[Vagas de TI Brasil](https://t.me/VagasBRTI)** | Canal Telegram |
+| **[Talents Junior](https://t.me/vagastalentsjuniors)** | Comunidade Telegram (vários grupos) |
+| **[Cafeína Vagas](https://t.me/CafeinaVagas)** | Canal Telegram |
+| **[JavaScript Brasil](https://t.me/javascriptbrvagas)** | Canal Telegram |
+| **[Vagas Remotas TI](https://t.me/vagasremotas_br)** | Canal Telegram |
+| **[Vagas de Dados Junior](https://t.me/vagasdedadosjunior)** | Canal Telegram |
+
 
 
 
