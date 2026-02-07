@@ -17,7 +17,7 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 | **[Verônica Freire](https://www.linkedin.com/in/averonicafreire/)** | Linkedin |
 | **[Home Office - Vagas Remotas](https://www.linkedin.com/company/home-office-vagas-remotas/posts/)** | Linkedin |
 | **[Vanderlei Gourlart](https://www.linkedin.com/in/vanderleigoulart/)** | Linkedin |
-
+| **[Workana](https://www.workana.com/pt/)**
 
 
 
@@ -51,7 +51,8 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 | **[Impulso](https://impulso.team/pt/profissionais/oportunidades)** |
 | **[Nerdin](https://www.nerdin.com.br)** |
 | **[Remote In Tech](https://remoteintech.company)** |
-
+| **[Backend Br](https://github.com/backend-br/vagas/issues)** |
+| **[Front End Brasil](https://github.com/frontendbr/vagas/)**
 
 
 
@@ -106,8 +107,8 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 | **[Upwork](https://www.upwork.com/)**
 | **[Fiverr](https://www.fiverr.com/)**
 | **[Toptal](https://www.toptal.com/)**
-
-
+| **[Freelancer](https://www.br.freelancer.com)**
+| **[Remote](link)**
 
 ## 🤝 Como Contribuir
 Sinta-se à vontade para enviar um **Pull Request** com novos sites ou correções!
