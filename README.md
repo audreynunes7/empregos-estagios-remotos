@@ -28,6 +28,7 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 | **[Vanderlei Gourlart](https://www.linkedin.com/in/vanderleigoulart/)** | Linkedin |
 | **[Workana](https://www.workana.com/pt/)**
 | **[Vagas Home Office](https://t.me/Trabalhohomeofficem)** | Canal Telegram |
+| **[Notion Vagas Remotas](https://www.notion.so/Sites-de-Vagas-estagio-remoto-1f95bba15c5e80e5bc12f340f7315a7e?source=copy_link)** | Notion da @estagio.remoto |
 
 
 
