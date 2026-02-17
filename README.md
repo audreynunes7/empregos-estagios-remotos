@@ -75,8 +75,9 @@ O objetivo é centralizar para auxiliar na busca todos os níveis.
 | **[JavaScript Brasil](https://t.me/javascriptbrvagas)** | Canal Telegram |
 | **[Vagas Remotas TI](https://t.me/vagasremotas_br)** | Canal Telegram |
 | **[Vagas de Dados Junior](https://t.me/vagasdedadosjunior)** | Canal Telegram |
-
-
+| **[Vagas TI Pleno e Senior](https://t.me/vagatiplenoesenior)** | Canal Telegram |
+| **[Vagas para os Estagiários e Juninhos (as) 🚀👶 Tecnologia](https://www.linkedin.com/groups/9184036/)** | Grupo LinkedIn |
+| **[Vagas TI (JCal)](https://www.linkedin.com/groups/8946726/)** | Grupo LinkedIn |
 
 
 
